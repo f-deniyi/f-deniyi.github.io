@@ -5,6 +5,9 @@ body {
   background-color: #101010;
 
 }
+html{
+  scroll-behavior: smooth;
+}
 
 .home {
   background-image: linear-gradient(rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.6)), url("image/bg5.jpg");
